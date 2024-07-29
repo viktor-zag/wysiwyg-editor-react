@@ -17,7 +17,7 @@ A simple WYSIWYG (What You See Is What You Get) editor built using React.
 To run this project locally, clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/Ruffmantom/wysiwygTextEditor.git
+git clone https://github.com/viktor-zag/wysiwyg-editor-react.git
 cd react-wysiwyg-editor
 npm install
 npm start
