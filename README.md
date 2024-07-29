@@ -38,5 +38,3 @@ Contributions are welcome! Please feel free to submit a pull request.
 Acknowledgments
 Built with React
 Icons from Material Icons
-Support
-For support, contact tomruffcodes@gmail.com.
